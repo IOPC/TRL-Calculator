@@ -1,0 +1,9 @@
+C:\Users\Cristian\Desktop\IVAO - What´s up\Calculadora de TRL\Calculadora de TRL\Calculadora de TRL\bin\Debug\Calculadora de TRL.exe.config
+C:\Users\Cristian\Desktop\IVAO - What´s up\Calculadora de TRL\Calculadora de TRL\Calculadora de TRL\bin\Debug\Calculadora de TRL.exe
+C:\Users\Cristian\Desktop\IVAO - What´s up\Calculadora de TRL\Calculadora de TRL\Calculadora de TRL\bin\Debug\Calculadora de TRL.pdb
+C:\Users\Cristian\Desktop\IVAO - What´s up\Calculadora de TRL\Calculadora de TRL\Calculadora de TRL\obj\Debug\Calculadora de TRL.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\IVAO - What´s up\Calculadora de TRL\Calculadora de TRL\Calculadora de TRL\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Cristian\Desktop\IVAO - What´s up\Calculadora de TRL\Calculadora de TRL\Calculadora de TRL\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Cristian\Desktop\IVAO - What´s up\Calculadora de TRL\Calculadora de TRL\Calculadora de TRL\obj\Debug\Calculadora de TRL.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\IVAO - What´s up\Calculadora de TRL\Calculadora de TRL\Calculadora de TRL\obj\Debug\Calculadora de TRL.exe
+C:\Users\Cristian\Desktop\IVAO - What´s up\Calculadora de TRL\Calculadora de TRL\Calculadora de TRL\obj\Debug\Calculadora de TRL.pdb
